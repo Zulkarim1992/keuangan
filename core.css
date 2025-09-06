@@ -871,7 +871,7 @@ a:focus {
     width: 20px;
     height: 20px;
 
-    content: '•';
+    content: 'Â•';
     text-align: center;
 
     opacity: .25;
@@ -998,15 +998,20 @@ a:focus {
 .slick-vertical .slick-slide
 {
     display: block;
-
     height: auto;
-
     border: 1px solid transparent;
 }
 .slick-arrow.slick-hidden {
     display: none;
 }
-
+.img-opd {
+	height: 200px;
+	width: auto;
+}
+.img-logo {
+	height: 40px;
+	width: auto;
+}
 .navbar-right .box{
     position: absolute;
     top: 10px;
