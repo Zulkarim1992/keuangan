@@ -1005,9 +1005,10 @@ a:focus {
     display: none;
 }
 .img-opd {
-	height: 60%;
+	height: 50%;
 	position: absolute;
 	left: 50%;
+	bottom: 15px;
 	transform: translateX(-45%);
 	opacity: .7;
 	width: auto;
