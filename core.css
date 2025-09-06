@@ -1005,7 +1005,11 @@ a:focus {
     display: none;
 }
 .img-opd {
-	height: 200px;
+	height: 60%;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-45%);
+	opacity: .7;
 	width: auto;
 }
 .img-logo {
@@ -1240,6 +1244,7 @@ a.bookmark:before {
 .container .main-cover {
 	padding: 10px 25px 10px 25px;
 	display: block;
+	position: relative;
 }
 .container .main-cover p:last-child {
 	position: absolute;
