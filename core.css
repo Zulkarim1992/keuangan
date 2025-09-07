@@ -8,7 +8,7 @@
 --culturedWhite: #F5F5F5;
 --erieBlack: #141414;
 }
-.odd-title .left-side {
+.odd-title.left-side {
 	top: 85px;
 	left: -25px;
 }
