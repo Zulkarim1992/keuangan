@@ -9,8 +9,8 @@
 --erieBlack: #141414;
 }
 .odd-title.left-side {
-	top: 85px;
-	left: -25px;
+	top: 85px!important;
+	left: -25px!important;
 }
 .earthYellowBg {
 	background-color: var(--earthYellow);
